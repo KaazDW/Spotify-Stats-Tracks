@@ -4,9 +4,12 @@ Spotify Statistics Tracker, web app made in TypeScript and VueJS made for consul
 
 
 <!-- screen1.png -->
-<img src="https://github.com/KaazDW/Spotify-Stats-Tracks/blob/main/public/readme_assets/screen1.png?raw=true" alt="Screen 1" width="400" height="400">
+<div align="center">
 
-<img src="https://github.com/KaazDW/Spotify-Stats-Tracks/blob/main/public/readme_assets/screen2.png?raw=true" alt="Screen 2" width="400" height="400">
+  <img src="https://github.com/KaazDW/Spotify-Stats-Tracks/blob/main/readme_assets/screen2.png" alt="Screen 1" width="800" height="800"><br/>
+  <img src="https://github.com/KaazDW/Spotify-Stats-Tracks/blob/main/readme_assets/screen1.png" alt="Screen 2" width="800" height="800">
+
+</div>
 
 <br/>
 
